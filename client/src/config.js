@@ -1,5 +1,5 @@
-export const API = "http://localhost:8000/api";
-// export const API = "https://casa-byte.vercel.app/api";
+// export const API = "http://localhost:8000/api";
+export const API = "https://buy-sell-one.vercel.app/api";
 export const FIREBASE_API_KEY = "AIzaSyBLeOj9DkNiuObcVa5Y3mJ3Q7O_6W32dsA";
 // export const FIREBASE_CONFIG = {
 //     apiKey: "AIzaSyDDK5O3i0wU-Ra54BEpxIJWlzhX_XV5kgU",
