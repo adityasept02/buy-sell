@@ -1,4 +1,3 @@
-# housing
 # Buy-Sell
 
 RealEstate Marketplace is a web platform that enables users to buy, sell, and rent houses and lands. This application provides a comprehensive solution for real estate transactions and property management. Users can explore listings, upload property details, and seamlessly interact with the real estate market.
