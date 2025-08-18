@@ -1,5 +1,5 @@
-# housing-marketplace
-# Casa-Bytes
+# housing
+# Buy-Sell
 
 RealEstate Marketplace is a web platform that enables users to buy, sell, and rent houses and lands. This application provides a comprehensive solution for real estate transactions and property management. Users can explore listings, upload property details, and seamlessly interact with the real estate market.
 
@@ -29,11 +29,8 @@ These instructions will help you set up and run the project on your local machin
 
 ### Installation
 
-1. Clone the repository to your local machine:
-   ```bash
-   # RealEstate Marketplace
 
-RealEstate Marketplace is a web platform that enables users to buy, sell, and rent houses and lands. This application provides a comprehensive solution for real estate transactions and property management. Users can explore listings, upload property details, and seamlessly interact with the real estate market.
+Buy-Sell is a web platform that enables users to buy, sell, and rent houses and lands. This application provides a comprehensive solution for real estate transactions and property management. Users can explore listings, upload property details, and seamlessly interact with the real estate market.
 
 ## Features
 
@@ -63,10 +60,10 @@ These instructions will help you set up and run the project on your local machin
 
 1. Clone the repository to your local machine:
    ```bash
-   https://github.com/zorothreesword/housing-marketplace.git
+   [https://github.com/adityasept02/buy-sell.git]
 2. Navigate to the project directory:
     ```bash
-    cd housing-marketplace
+    cd buy-sell
 3. Install dependencies:
    ```bash
    npm install
